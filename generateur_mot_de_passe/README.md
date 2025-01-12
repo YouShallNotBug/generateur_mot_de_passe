@@ -27,7 +27,7 @@ Il inclut une bibliothèque utilitaire pour gérer les interactions utilisateur.
 
 ### 1️⃣ Clonez le dépôt  
 ```bash
-git clone https://github.com/YouShallNotBug/generateur_mots_de_passe.git
+git clone https://github.com/YouShallNotBug/generateur_mot_de_passe.git
 ```  
 
 ### 2️⃣ Accédez à l'exécutable et lancez-le  
