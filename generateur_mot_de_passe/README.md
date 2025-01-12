@@ -32,7 +32,7 @@ git clone https://github.com/YouShallNotBug/generateur_mot_de_passe.git
 
 ### 2️⃣ Accédez à l'exécutable et lancez-le  
 ```bash
-\generateur_mot_de_passe\bin\Release\net9.0\generateur_mot_de_passe.exe
+generateur_mot_de_passe\generateur_mot_de_passe\bin\Release\net9.0\generateur_mot_de_passe.exe
 ```  
 
 ---
